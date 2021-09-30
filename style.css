@@ -1,0 +1,18 @@
+html, body 
+{
+    background-color: #c0bcbc;
+	background: url("img/pic1.jpg");
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    font-family: georgia,sans-serif;
+ }
+  
+.about
+{
+	border-radius: 20px;  
+	background: #000000; 
+	color:#FFFFFF; 
+	opacity: 0.8;
+} 
+  
